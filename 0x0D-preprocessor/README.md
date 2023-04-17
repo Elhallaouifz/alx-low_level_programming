@@ -17,19 +17,3 @@ Write a function-like macro ABS(x) that computes the absolute value of a number 
 
 4. SUM
 Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.
-
-
-
-
-
-======================================
-
-0-object_like_macro.h CODE
-
-
-#ifndef OBJECT_LIKE_MACRO_H
-#define OBJECT_LIKE_MACRO_H
-
-#define SIZE 1024
-
-#endif
